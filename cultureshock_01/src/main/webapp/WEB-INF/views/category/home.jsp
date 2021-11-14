@@ -7,7 +7,7 @@
 <html>
 <head>
 <meta charset="utf-8" />
-<title>장바구니---</title>
+<title>장바구니!!!!-</title>
 <style>
 .list-table {
 	margin-top: 40px;
